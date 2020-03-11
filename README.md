@@ -1,6 +1,6 @@
-## React.memo
+# React.memo
 
-### About
+## About
 
 This is a React App that consumes an API and uses the function **react.memo** to memorize a component and avoid that it keeps itself in a cycle of reconciliation, that means, rendering unnecessarily.
 
